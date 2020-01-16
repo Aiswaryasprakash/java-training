@@ -1,0 +1,1254 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+  
+    <title>VGATE ACADEMY</title>
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <link href="https://fonts.googleapis.com/css?family=Work+Sans:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Fredericka+the+Great" rel="stylesheet">
+
+    <link rel="stylesheet" href="css/open-iconic-bootstrap.min.css">
+    <link rel="stylesheet" href="css/animate.css">
+    
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="css/magnific-popup.css">
+
+    <link rel="stylesheet" href="css/aos.css">
+
+    <link rel="stylesheet" href="css/ionicons.min.css">
+    
+    <link rel="stylesheet" href="css/flaticon.css">
+    <link rel="stylesheet" href="css/icomoon.css">
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+	  <div class="py-2 bg-primary">
+    	<div class="container">
+    		<div class="row no-gutters d-flex align-items-start align-items-center px-3 px-md-0">
+	    		<div class="col-lg-12 d-block">
+		    		<div class="row d-flex">
+			    		<div class="col-md-5 pr-4 d-flex topper align-items-center">
+			    		
+			    			<div class="icon bg-fifth mr-2 d-flex justify-content-center align-items-center"><span class="icon-map"></span></div>
+						    
+						    <div class="">
+						    <span class="text"><font size="3" style="Georgia" color="green">No.28, First Floor, OCF Road, Avadi, Chennai 54[Main]</font></span><br>
+						    <span class="text"><font size="3" style="Georgia" color="#A52A2A">No : 10 Iyappan Temple Street, Bakthavachala Puram, Avadi, Chennai, TamilNadu, India 600 054</font></span><br>
+							</div>
+					    
+					    
+					    </div>
+					    <div class="col-md pr-4 d-flex topper align-items-center">
+					    	<div class="icon bg-secondary mr-2 d-flex justify-content-center align-items-center"><span class="icon-paper-plane"></span></div>
+						    <span class="text"><font size="4" style="Georgia" color="#FF6347">vgateacademyonline@gmail.com</font></span>
+					    </div>
+					    <div class="col-md pr-4 d-flex topper align-items-center">
+					    	<div class="icon bg-tertiary mr-2 d-flex justify-content-center align-items-center"><span class="icon-phone2"></span></div>
+						    <span class="text"><font size="4" style="Georgia" color="red">+91-8220147439 / 8939797512</font></span>
+					    </div>
+				    </div>
+			    </div>
+		    </div>
+		  </div>
+    </div>
+    
+    <form>
+    <font color="#000080">
+    <marquee behavior="scroll" direction="left"
+           onmouseover="this.stop();"
+           onmouseout="this.start();">***Free Online Tutoring Demo From Our  Tutor  Experts!  Send  SMS Or Give a Missed Call...</marquee>
+           </font>
+    </form>
+    
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark ftco_navbar ftco-navbar-light" id="ftco-navbar">
+	    <div class="container d-flex align-items-center">
+	    
+	    	<a class="navbar-brand" href="index.html"><font size='7' color="4b0082" style="Georgia">VGATE ACADEMY</font></a>
+				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#ftco-nav" aria-controls="ftco-nav" aria-expanded="false" aria-label="Toggle navigation">
+	        <span class="oi oi-menu"></span> Menu
+	      </button>
+	      <div class="collapse navbar-collapse" id="ftco-nav">
+	        <ul class="navbar-nav ml-auto">
+	        	
+	        	
+	        	<li class="nav-item active"><a href="index.html" class="nav-link pl-0">Home</a></li>
+	        	<li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
+	        	<li class="nav-item"><a href="courses.html" class="nav-link">Courses</a></li>
+	        	<li class="nav-item"><a href="online.html" class="nav-link">Online Tutoring</a></li>  	
+	        	<li class="nav-item"><a href="downloads.html" class="nav-link">Downloads</a></li>
+	        	<li class="nav-item"><a href="news.html" class="nav-link">Latest News</a></li>
+	          <li class="nav-item"><a href="contact.html" class="nav-link">Contact</a></li>
+	        
+	        </ul>
+	      </div>
+	    </div>
+	  </nav>
+    <!-- END nav -->
+    
+    <section class="home-slider owl-carousel">
+    
+    <div class="slider-item" style="background-image:url(images/bg_2.jpg);">
+      	<div class="overlay"></div>
+        <div class="container">
+          <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
+          <div class="col-md-8 text-center ftco-animate">
+            <h1 class="mb-4"><font color="yellow">Aspire To Achieve Your Dreams</font><span><font color="#f7f9f9"> <font color="brown">|</font>Schools</font> <font color="brown">|</font> <font color="#f7f9f9">Colleges<font color="brown">|</font></font> <font color="brown">|</font><font color="#f7f9f9">Engineering</font><font color="brown">|</font></span></h1>
+            <p><a href="index.html" class="btn btn-secondary px-4 py-3 mt-3">Read More</a></p>
+          </div>
+        </div>
+        </div>
+      </div>
+      
+     
+  <!-- 2nd picture start -->   
+<div class="slider-item" style="background-image:url(images/T2.jpg);">
+      	<div class="overlay"></div>
+        <div class="container">
+          <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
+          <div class="col-md-8 text-center ftco-animate">
+            <h1 class="mb-4"><font color="">A Lead From <span> Professionally Experienced Team</span></font></h1>
+            <p><a href="#" class="btn btn-secondary px-4 py-3 mt-3">Read More</a></p>
+          </div>
+        </div>
+        </div>
+      </div>
+
+<!-- 2nd Picture END -->
+
+
+<!-- 3rd picture start -->
+
+		<div class="slider-item" style="background-image:url(images/T3.jpg);">
+      	<div class="overlay"></div>
+        <div class="container">
+          <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
+          <div class="col-md-8 text-center ftco-animate">
+            <h1 class="mb-4"><font color="red">VGATE Academy Online </font><span></span></h1>
+            <p><a href="#" class="btn btn-secondary px-4 py-3 mt-3">Read More</a></p>
+          </div>
+        </div>
+        </div>
+      </div>
+
+<!-- 3rd picture END -->
+
+<!-- 4th slide picture start -->
+<div class="slider-item" style="background-image:url(images/T4.jpg);">
+      	<div class="overlay"></div>
+        <div class="container">
+          <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
+          <div class="col-md-8 text-center ftco-animate">
+            <h1 class="mb-4">Class Room Learning<span></span></h1>
+            <p><a href="#" class="btn btn-secondary px-4 py-3 mt-3">Read More</a></p>
+          </div>
+        </div>
+        </div>
+      </div>
+      <!-- 4th slide END -->
+   
+   <!-- 5th slide start -->
+   
+   <div class="slider-item" style="background-image:url(images/T5.jpg);">
+      	<div class="overlay"></div>
+        <div class="container">
+          <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
+          <div class="col-md-8 text-center ftco-animate">
+            <h1 class="mb-4"><font color="orange" size=""><b>Online Tutoring</b></font> <span></span></h1>
+            <p><a href="#" class="btn btn-secondary px-4 py-3 mt-3">Read More</a></p>
+          </div>
+        </div>
+        </div>
+      </div>
+      
+      <!-- 5th slide END -->
+      
+      
+   <!-- 6th slide start -->
+   <div class="slider-item" style="background-image:url(images/T6.jpg);">
+      	<div class="overlay"></div>
+        <div class="container">
+          <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
+          <div class="col-md-8 text-center ftco-animate">
+            <h1 class="mb-4">NEET - AIIMS <span>IIT JEE - NATA - NDA</span></h1>
+            <p><a href="#" class="btn btn-secondary px-4 py-3 mt-3">Read More</a></p>
+          </div>
+        </div>
+        </div>
+      </div>
+      
+      <!-- 6th slide END -->
+      
+      
+      <!-- 7th Slide picture start -->
+     <div class="slider-item" style="background-image:url(images/T7.jpg);">
+      	<div class="overlay"></div>
+        <div class="container">
+          <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
+          <div class="col-md-8 text-center ftco-animate">
+            <h1 class="mb-4">GATE - TANCET - IES <span></span></h1>
+            <p><a href="#" class="btn btn-secondary px-4 py-3 mt-3">Read More</a></p>
+          </div>
+        </div>
+        </div>
+      </div>
+      
+      <!-- 7th slide END -->
+
+<div class="slider-item" style="background-image:url(images/T8.jpg);">
+      	<div class="overlay"></div>
+        <div class="container">
+          <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
+          <div class="col-md-8 text-center ftco-animate">
+            <h1 class="mb-4"><font color="#d35400">Training The Trainers</font> <span></span></h1>
+            <p><a href="#" class="btn btn-secondary px-4 py-3 mt-3">Read More</a></p>
+          </div>
+        </div>
+        </div>
+      </div>
+
+
+
+<!-- 9th slide start -->
+<div class="slider-item" style="background-image:url(images/T9.jpg);">
+      	<div class="overlay"></div>
+        <div class="container">
+          <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
+          <div class="col-md-8 text-center ftco-animate">
+            <h1 class="mb-4">Collaborated School Programs <span></span></h1>
+            <p><a href="#" class="btn btn-secondary px-4 py-3 mt-3">Read More</a></p>
+          </div>
+        </div>
+        </div>
+      </div>
+
+<!-- 9th slide END -->
+
+
+
+<!-- 10th slide start -->
+ <div class="slider-item" style="background-image:url(images/T10.jpg);">
+      	<div class="overlay"></div>
+        <div class="container">
+          <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
+          <div class="col-md-8 text-center ftco-animate">
+            <h1 class="mb-4">Collaborated College Programs<span></span></h1>
+            <p><a href="#" class="btn btn-secondary px-4 py-3 mt-3">Read More</a></p>
+          </div>
+        </div>
+        </div>
+      </div>
+      <!-- 10th Slide closed -->
+
+
+
+<!-- 11th slide start -->
+ <div class="slider-item" style="background-image:url(images/T11.jpg);">
+      	<div class="overlay"></div>
+        <div class="container">
+          <div class="row no-gutters slider-text align-items-center justify-content-center" data-scrollax-parent="true">
+          <div class="col-md-8 text-center ftco-animate">
+            <h1 class="mb-4"><font color="darkpink">Why Home Tuitions?<span>Learn From Our Online Tutors</span></font></h1>
+            <p><a href="#" class="btn btn-secondary px-4 py-3 mt-3">Read More</a></p>
+          </div>
+        </div>
+        </div>
+      </div>
+      <!-- 11th Slide closed -->
+
+    </section>
+
+
+
+<!--Four Coloums (content)Started Here  -->
+
+    <section class="ftco-services ftco-no-pb">
+			<div class="container-wrap">
+				<div class="row no-gutters">
+          <div class="col-md-3 d-flex services align-self-stretch pb-4 px-4 ftco-animate bg-primary">
+            <div class="media block-6 d-block text-center">
+              
+             <div class="icon d-flex justify-content-center align-items-center">
+            	
+            		<span class="flaticon-teacher" > </span>
+            		
+              </div>
+              
+              <div class="media-body p-2 mt-3">
+              
+                <h3 class="heading"><font color="red">GATE</font> | <font color="green">TANCET</font> | <font color="maroon">IES</font></h3>
+                <p align="left"> <font color="darkblue" size="4">Weekdays</font> - 7.00 PM to 9.00 PM</p>
+                <p align="left"> <font color="darkblue" size="4">Weekends</font>  </p>
+                <p> <font color="brown" size="4">Saturday</font> - 6.00 PM to 9.00 PM <font color="black"> &amp; </font> </p>
+                <p align="left"> <font color="brown" size="4">Sunday</font> - 10.00 AM to 5.00 PM</p>
+              </div>
+              
+              
+            </div>      
+          </div>
+          <div class="col-md-3 d-flex services align-self-stretch pb-4 px-4 ftco-animate bg-tertiary">
+            <div class="media block-6 d-block text-center">
+              <div class="icon d-flex justify-content-center align-items-center">
+            		<span class="flaticon-teacher" > </span>
+              </div>
+              <div class="media-body p-2 mt-3">
+                <h3 class="heading"><font color="darkgreen">IIT JEE </font>| <font color="brown">NEET </font>| <font color="darkviolet">AIIMS</font>|</h3>
+                <h3 class="heading">|<font color="red"> NATA</font> | <font color="yellow">NDA </font>|</h3>                
+                <p><font size="4" color="darkrose">Class Room Learning</font>  </p>
+                <p align="center"> <font color="black"> &amp; </font> </p>
+                <p><font size="4" color="blue">Distance Learning</font></p>
+                <p> <font color="brown" size="4">Saturday</font> - 6.00 PM to 9.00 PM <font color="black"> &amp; </font> </p>
+                <p align="left"> <font color="brown" size="4">Sunday</font> - 10.00 AM to 5.00 PM</p>
+                
+              </div>
+            </div>    
+          </div>
+          
+          
+          <div class="col-md-3 d-flex services align-self-stretch pb-4 px-4 ftco-animate bg-fifth">
+            <div class="media block-6 d-block text-center">
+              <div class="icon d-flex justify-content-center align-items-center">
+            		<span class="flaticon-books"></span>
+              </div>
+              <div class="media-body p-2 mt-3">
+                <h3 class="heading">ONLINE TUTORING</h3>
+                <p align="left"><font size="4" color="lime">Schools:</font> IX - X - XI - XII STD [CBSC/MATRIC/STATE BOARD]</p>
+                <p align="left"><font size="4" color="lime">Colleges:</font> All Mathematics/ B.E - B.Tech/M.E - M.Tech/ MBA- MCA  </p>
+                <h1><font color="gold" size="4">AnyWhere, AnyTime!</font></h1>
+              </div>
+            </div>      
+          </div>
+          <div class="col-md-3 d-flex services align-self-stretch pb-4 px-4 ftco-animate bg-quarternary">
+            <div class="media block-6 d-block text-center">
+              <div class="icon d-flex justify-content-center align-items-center">
+            		<span class="flaticon-diploma"></span>
+              </div>
+              <div class="media-body p-2 mt-3">
+                <h3 class="heading"><font color="yellow" >DISTANCE EDUCATION</font></h3>
+                <p><font color="#00FF00" size="4">National Institute Of Open Schooling (NIOS)  <span>[Secondary &amp; Senior Secondary]</span></font></p>
+                <p><font size="4">Part Time Diploma -IME, ICE</font></p>
+                <p><font size="4">AMIE- IIIE</font> </p> 
+                <p><font color="#00FFFF" size="4">Spoken English/Hindi</font></p>
+                
+              </div>
+            </div>      
+          </div>
+        </div>
+			</div>
+		</section>
+<!-- Four Columns Closed Here -->		
+		
+
+<!-- Right Side Content What we Offer Started Here -->		
+		
+		<section class="ftco-section ftco-no-pt ftc-no-pb">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-5 order-md-last wrap-about py-5 wrap-about bg-light">
+						<div class="text px-4 ftco-animate">
+	          	<h2 class="mb-4"><font color="#00008B">What We Offer</font></h2>
+	          				
+							<p><font color="#000000">Excellent coaching for</font></p>
+							<ul>
+							<li><font color="#00008B">X , XI and XII [CBSE, Matriculation, State Board]</font></li> 
+							<li><font color="#00008B">All Mathematics, Engineering (Part Time &amp; Regular)</font></li>
+							<li><font color="#00008B">Other competitive examinations [TNPSC, UPSC]</font></li>
+							</ul>
+							<p><font color="#000000">We produce successful candidates every year by our best ever training for</font></p>
+							<ul>
+							<li><font color="#00008B">IIT- JEE / NEET</font></li>
+							<li><font color="#00008B">GATE/TANCET</font></li> 
+							<li><font color="#00008B">National Institute of Open Schooling (NIOS)</font></li>
+							
+							</ul>
+							
+							
+							<p align="justify"><font color="maroon" style="text-decoration: underline;">Today, for the continuous improvement in education, to excel in educating the global students community with implementation of right technological advancements.</font></p>
+
+							<p align="justify"><font color="#000000">We have launched <font color="blue">‘Online Tutoring Services’</font>,  
+							a LIVE Teaching platform enhanced with enormous features and a 
+							<font color="blue">User Friendly Online White Board</font> where the Students and our Tutors will interact 
+							<font color="blue">(both Audio &amp; Video, Chat)</font> and involves in Teaching-Learning activity with the 
+							ease of access and its simple operating procedures. We use a comfortable learning 
+							platform for the students to adapt faster to the white board. 
+							We are supporting the students of <font color="blue">INDIA, US, UK, AUS &amp; CANADA 
+							</font>and now we are extending our services to outreach every region of this globe. 
+							</font></p>
+							<p><a href="#" class="btn btn-secondary px-4 py-3">Read More</a></p>
+							
+							<!-- video code start here -->
+							
+							<br>
+							<iframe width="425" height="400" src="https://www.youtube.com/embed/s84_I2u_ids" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+														
+							<!-- video code END here -->
+						</div>
+					</div>
+<!-- Right Side Content What we Offer Closed Here -->
+
+
+
+<!-- Left Side Content What we Offer Started Here -->
+
+					<div class="col-md-7 wrap-about py-5 pr-md-4 ftco-animate">
+          	<h2 class="mb-4" > <font color="#00008B"> Welcome to VGATE ACADEMY</font></h2>
+						<p align="justify"><font color="#000000">
+						We provide best coaching for X , XI and XII 
+						<font color="blue">[CBSE, Matriculation, State Board]</font> Students for the subjects of 
+						<font color="blue">Mathematics, Science, Physics, Chemistry, Biology &amp; Accountancy</font> 
+						and slowly emerged as an excellent center for coaching 
+						<font color="blue">all Mathematics, Engineering (Part time &amp; Regular), Accountancy</font> 
+						and other competitive examinations like <font>TNPSC, UPSC, Banking, RRB, SSC, 
+						SI, TET &amp; C-TET </font>and Entrance Examinations for Engineering and 
+						Medical courses.
+						
+						We are producing successful candidates in 
+						<font color="blue">GATE, TANCET, IIT- JEE &amp; NEET </font> every year and the students 
+						enjoy the fruitiness of our excellent coaching and learning strategies 
+						and methodologies. We are also an important center for teaching subjects of 
+ 						<font color="blue">National Institute of Open Schooling (NIOS)</font> 
+						and changed many lives from school &amp; college drop outs and also 
+						those who are in aspire to get a successful career through proper education and training.
+
+						</font></p>
+						
+						
+						
+						<div class="row mt-5">
+							<div class="col-lg-6">
+								<div class="services-2 d-flex">
+									<div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="flaticon-security"></span></div>
+									<div class="text">
+										<h3> <font color="maroon">Our Vision</font></h3>
+										<p align="justify"><font color="#000000"> To Produce Skilled, Knowledged Pupil &amp; Graduates to Meet The Global Competency
+										in Each Career and Educational Eco-Systems.   </font></p>
+										
+										<!-- Video Started Here -->
+							
+										<iframe width="250" height="200" src="https://www.youtube.com/embed/0OnF_xQPZPQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	
+									
+										
+										
+										
+										<!-- Video Closed Here -->
+									</div>
+								</div>
+							</div>
+							<div class="col-lg-6">
+								<div class="services-2 d-flex">
+									<div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="flaticon-reading"></span></div>
+									<div class="text">
+										<h3><font color="#00008B">Our Mission</font></h3>
+										<p align="justify"><font color="#000000">To Enhance Enriched Teaching and Learning Activities by Imparting Right technological Tools and Resources to The Candidates. </font></p>
+										<p align="justify"><font color="#000000">To Provide Training in International Standards and Evolve as an Independent Institution in Meeting
+										The Demands for Educational Excellency. </font></p>
+									</div>
+								</div>
+							</div>
+							<div class="col-lg-6">
+								<div class="services-2 d-flex">
+									<div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="flaticon-diploma"></span></div>
+									<div class="text">
+										<h3><font color="green">Experienced Trainers &amp; Tutors</font> </h3>
+										<p align="justify"><font color="#000000">More Than 300 Subject Experts, Trainers and Online Tutors for All The Courses.</font></p>
+									</div>
+								</div>
+							</div>
+							<div class="col-lg-6">
+								<div class="services-2 d-flex">
+									<div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="flaticon-education"></span></div>
+									<div class="text">
+										<h3><font color="#FF00FF">Regular Classes</font></h3>
+										<p align="justify"><font color="#000000">Class Room Learning, Virtual Learning, Distance Learning, Both Weekdays &amp; Weekend Programs for School &amp; College Students.</font> </p>
+									</div>
+								</div>
+							</div>
+							<div class="col-lg-6">
+								<div class="services-2 d-flex">
+									<div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="flaticon-jigsaw"></span></div>
+									<div class="text">
+										<h3><font color="#2F4F4F">Creative Teaching Aids</font></h3>
+										<p align="justify"> <font color="#000000">Power Point Presentation, Animation Videos, Role Play, Online Test Series &amp; Assignments. </font></p>
+									</div>
+								</div>
+							</div>
+							<div class="col-lg-6">
+								<div class="services-2 d-flex">
+									<div class="icon mt-2 mr-3 d-flex justify-content-center align-items-center"><span class="flaticon-kids"></span></div>
+									<div class="text">
+										<h3><font color="#DC143C">Collaborated Programs</font></h3>
+										<p align="justify"><font color="#000000">We Conduct Collaborated Programs with Schools, Colleges and Universities On Career Guidance, Personality and Entrepreneurship  Development to become either an employee or an employer.  </font></p>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		
+
+
+
+
+
+		<section class="ftco-intro" style="background-image: url(images/T7.jpg);" data-stellar-background-ratio="0.5">
+			<div class="overlay"></div>
+			<div class="container">
+				<div class="row">
+					<div class="col-md-9">
+						<h2><font size="" style="Georgia" color="yellow"><i>"Teaching Is Nothing But Continuous Learning Where Learning Enlightens our Mind From Darkness To Awareness"</i> </font></h2><p align="right"><font size="3" style="Georgia" color="#FFFFFF">--Prof. A.Thamarai Selvan, VGATE ACADEMY</font></p>
+						
+						<p class="mb-0"></p>
+					</div>
+					<div class="col-md-3 d-flex align-items-center">
+						<p class="mb-0"><a href="#" class="btn btn-secondary px-4 py-3">Take a Course</a></p>
+					</div>
+				</div>
+			</div>
+		</section>
+
+
+
+
+<!--   Teachers Section -->
+<!-- 
+		
+		<section class="ftco-section ftco-no-pb">
+			<div class="container">
+				<div class="row justify-content-center mb-5 pb-2">
+          <div class="col-md-8 text-center heading-section ftco-animate">
+            <h2 class="mb-4"><span>Certified</span> Teachers</h2>
+            <p>Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country</p>
+          </div>
+        </div>	
+				<div class="row">
+					<div class="col-md-6 col-lg-3 ftco-animate">
+						<div class="staff">
+							<div class="img-wrap d-flex align-items-stretch">
+								<div class="img align-self-stretch" style="background-image: url(images/teacher-1.jpg);"></div>
+							</div>
+							<div class="text pt-3 text-center">
+								<h3>Bianca Wilson</h3>
+								<span class="position mb-2">Teacher</span>
+								<div class="faded">
+									<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
+									<ul class="ftco-social text-center">
+		                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
+		                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
+		                <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
+		                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+		              </ul>
+	              </div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-6 col-lg-3 ftco-animate">
+						<div class="staff">
+							<div class="img-wrap d-flex align-items-stretch">
+								<div class="img align-self-stretch" style="background-image: url(images/teacher-2.jpg);"></div>
+							</div>
+							<div class="text pt-3 text-center">
+								<h3>Mitch Parker</h3>
+								<span class="position mb-2">English Teacher</span>
+								<div class="faded">
+									<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
+									<ul class="ftco-social text-center">
+		                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
+		                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
+		                <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
+		                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+		              </ul>
+	              </div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-6 col-lg-3 ftco-animate">
+						<div class="staff">
+							<div class="img-wrap d-flex align-items-stretch">
+								<div class="img align-self-stretch" style="background-image: url(images/teacher-3.jpg);"></div>
+							</div>
+							<div class="text pt-3 text-center">
+								<h3>Stella Smith</h3>
+								<span class="position mb-2">Art Teacher</span>
+								<div class="faded">
+									<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
+									<ul class="ftco-social text-center">
+		                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
+		                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
+		                <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
+		                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+		              </ul>
+	              </div>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-6 col-lg-3 ftco-animate">
+						<div class="staff">
+							<div class="img-wrap d-flex align-items-stretch">
+								<div class="img align-self-stretch" style="background-image: url(images/teacher-4.jpg);"></div>
+							</div>
+							<div class="text pt-3 text-center">
+								<h3>Monshe Henderson</h3>
+								<span class="position mb-2">Science Teacher</span>
+								<div class="faded">
+									<p>I am an ambitious workaholic, but apart from that, pretty simple person.</p>
+									<ul class="ftco-social text-center">
+		                <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
+		                <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
+		                <li class="ftco-animate"><a href="#"><span class="icon-google-plus"></span></a></li>
+		                <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
+		              </ul>
+	              </div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		
+-->
+
+
+
+		
+
+		<section class="ftco-section">
+			<div class="container">
+				<div class="row justify-content-center mb-5 pb-2">
+          <div class="col-md-8 text-center heading-section ftco-animate">
+            <h2 class="mb-4"><span>Our</span> Courses</h2>
+            <p align="center"> <font size="4" color="darkgreen">Vgate Academy offers various courses for schools and college students to pursue higher education in prestigious and reputed institutions
+            and for graduates to excel their career in placements and foreign studies. </font></p>
+          </div>
+        </div>	
+				<div class="row">
+					<div class="col-md-6 course d-lg-flex ftco-animate">
+						<div class="img" style="background-image: url(images/T8.jpg);"></div>
+						<div class="text bg-light p-4">
+							<h3><a href="#"><b>Schools </b></a></h3>
+							<p class="subheading"><span>Class time:</span> 5.00pm - 9.00pm</p>
+							
+							<ul>
+							
+							<li><font color="#78281f"> Mathematics</font> </li>
+							<li><font color="#78281f">Physics</font></li>
+							<li><font color="#78281f">Chemistry</font></li>
+							<li><font color="#78281f">Biology</font></li>
+							
+							</ul>
+							
+						</div>
+					</div>
+					<div class="col-md-6 course d-lg-flex ftco-animate">
+						<div class="img" style="background-image: url(images/T10.jpg);"></div>
+						<div class="text bg-light p-4">
+							<h3><a href="#">Arts &amp; Science College</a></h3>
+							<p class="subheading"><span>Class time:</span> 5.00pm - 9.00pm</p>
+							
+							<ul>
+							
+							<li><font color="#145a32">All Mathematics</font> </li>
+							<li><font color="#145a32">Accountancy</font></li>
+							<li><font color="#145a32">Operation Research</font></li>
+							<li><font color="#145a32">Probability &amp; Statistics</font></li>
+							
+							</ul>
+							
+						</div>
+					</div>
+					<div class="col-md-6 course d-lg-flex ftco-animate">
+						<div class="img" style="background-image: url(images/T5.jpg);"></div>
+						<div class="text bg-light p-4">
+							<h3><a href="#">Engineering &amp; Polytechnic </a></h3>
+							<p class="subheading"><span>Class time:</span> 5.00pm - 10.00pm</p>
+		
+							<ul>
+							
+							<li><font color="#1c2833">Engineering Mathematics</font> </li>
+							<li><font color="#1c2833">Civil-Mech-ECE-EEE-CSE-IT etc.,</font></li>
+							<li><font color="#1c2833">ME-M.Tech</font></li>
+							<li><font color="#1c2833"> Project Guidance </font></li>
+							
+							</ul>
+						</div>
+					</div>
+					<div class="col-md-6 course d-lg-flex ftco-animate">
+						<div class="img" style="background-image: url(images/CC1.jpg);"></div>
+						<div class="text bg-light p-4">
+							<h3><a href="#">Distance &amp; Correspondence</a></h3>
+							<p class="subheading"><span>Class time:</span> All Days</p>
+							<ul>
+							
+							<li><font color="red">Part Time Diploma</font> </li>
+							<li><font color="red">AMIE-IIIE</font></li>
+							<li><font color="red">ALL UGs &amp; PGs</font></li>
+							<li><font color="red">NIOS</font></li>
+							
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+
+
+		
+<!-- 20 Years of Experience Started Here -->		
+		
+
+		<section class="ftco-section ftco-counter img" id="section-counter" style="background-image: url(images/bg_4.jpg);" data-stellar-background-ratio="0.5">
+    	<div class="container">
+    		<div class="row justify-content-center mb-5 pb-2">
+          <div class="col-md-8 text-center heading-section heading-section-black ftco-animate">
+            <h2 class="mb-4"><span>20 Years of Experience</span> </h2>
+            <p align="center"> <font color="maroon" size="4"><b>VGATE ACADEMY has dedicated 20 Years so far to uplift the standards 
+            of the students by implementing advanced technology &amp; teaching methodology and 
+            to provide quality in educational eco-system.</b></font> </p>
+          </div>
+        </div>	
+    		<div class="row d-md-flex align-items-center justify-content-center">
+    			<div class="col-lg-10">
+    				<div class="row d-md-flex align-items-center">
+		          <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
+		            <div class="block-18">
+		            	<div class="icon"><span class="flaticon-doctor"></span></div>
+		              <div class="text">
+		                <strong class="number" data-number="236">0</strong>
+		                <span>Subject Experts</span>
+		              </div>
+		            </div>
+		          </div>
+		          <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
+		            <div class="block-18">
+		            	<div class="icon"><span class="flaticon-doctor"></span></div>
+		              <div class="text">
+		                <strong class="number" data-number="9500">0</strong>
+		                <span>Successful Students</span>
+		              </div>
+		            </div>
+		          </div>
+		          <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
+		            <div class="block-18">
+		            	<div class="icon"><span class="flaticon-doctor"></span></div>
+		              <div class="text">
+		                <strong class="number" data-number="50">0</strong>
+		                <span>Collaborated Programs</span>
+		              </div>
+		            </div>
+		          </div>
+		          <div class="col-md d-flex justify-content-center counter-wrap ftco-animate">
+		            <div class="block-18">
+		            	<div class="icon"><span class="flaticon-doctor"></span></div>
+		              <div class="text">
+		                <strong class="number" data-number="1500">0</strong>
+		                <span>Students Achievements</span>
+		              </div>
+		            </div>
+		          </div>
+	          </div>
+          </div>
+        </div>
+    	</div>
+    </section>
+    
+<!-- 20 Years of Experience Closed Here -->
+
+
+
+
+<!-- FeedBack Started Here -->
+
+    <section class="ftco-section testimony-section bg-light">
+      <div class="container">
+        <div class="row justify-content-center mb-5 pb-2">
+          
+          <div class="col-md-8 text-center heading-section ftco-animate">
+            
+            <h2 class="mb-4"><span>What Students</span> Say About Us</h2>
+            <p></p>
+          </div>
+        
+        </div>
+        <div class="row ftco-animate justify-content-center">
+          <div class="col-md-12">
+            <div class="carousel-testimony owl-carousel">
+            
+            <!-- Mookambika -->
+              <div class="item">
+                <div class="testimony-wrap d-flex">
+                  <div class="user-img mr-4" style="background-image: url(images/Mookambika.jpg)">
+                  </div>
+                  <div class="text ml-2 bg-light">
+                  	<span class="quote d-flex align-items-center justify-content-center">
+                      <i class="icon-quote-left"></i>
+                    </span>
+                    <p align="center">Vgate Academy has helped me to achieve my goal of joining Nursing Degree. 
+                    It is an Excellent Institute to learn physics, chemistry, Biology and hope
+                    the other subjects too. </p>
+                    <p class="name" align="right">Mookambika B.Sc.,
+                    <span class="position">Nursing Student</span></p>
+                  </div>
+                </div>
+              </div>
+              
+              <!-- P. Mahesh Prabhu -->
+              <div class="item">
+                <div class="testimony-wrap d-flex">
+                  <div class="user-img mr-4" style="background-image: url(images/Mahesh.jpg)">
+                  </div>
+                  <div class="text ml-2 bg-light">
+                  	<span class="quote d-flex align-items-center justify-content-center">
+                      <i class="icon-quote-left"></i>
+                    </span>
+                    <p align="center">I studied most of my mechanical subjects in Vgate Academy and secured good percentage which helped me
+for my placements. Now I am preparing for competitive examinations with Vgate.</p>
+                    <p class="name" align="right">Mahesh Prabhu.P  <span class="position">B.E(Mech)</span></p>
+                  </div>
+                </div>
+              </div>
+              
+              <!-- Daniel Charles .J-->
+              <div class="item">
+                <div class="testimony-wrap d-flex">
+                  <div class="user-img mr-4" style="background-image: url(images/Daniel.jpg)">
+                  </div>
+                  <div class="text ml-2 bg-light">
+                  	<span class="quote d-flex align-items-center justify-content-center">
+                      <i class="icon-quote-left"></i>
+                    </span>
+                    <p align="center">Vgate Academy is my right choice where I learned schools and college subjects. Because of Vgate I become a good professional now</p>
+                    <p class="name" align="right">Daniel Charless.J  <span class="position">B.E(Mech)</span></p>
+                  </div>
+                </div>
+              </div>
+              
+              <!-- Vishnu.R -->
+              <div class="item">
+                <div class="testimony-wrap d-flex">
+                  <div class="user-img mr-4" style="background-image: url(images/Vishnu.jpg)">
+                  </div>
+                  <div class="text ml-2 bg-light">
+                  	<span class="quote d-flex align-items-center justify-content-center">
+                      <i class="icon-quote-left"></i>
+                    </span>
+                    <p align="center"> I joined and  prepared for gate exams in VGATE ACADEMY Now  I am studying in one of the prestigious institution in tamilnadu.</p>
+                    <p class="name" align="right">Vishnu.R  <span class="position">PG Student</span></p>
+                  </div>
+                </div>
+              </div>
+              
+              <!-- ken Bosh USA -->
+              <div class="item">
+                <div class="testimony-wrap d-flex">
+                  <div class="user-img mr-4" style="background-image: url(images/teacher-1.jpg)">
+                  </div>
+                  <div class="text ml-2 bg-light">
+                  	<span class="quote d-flex align-items-center justify-content-center">
+                      <i class="icon-quote-left"></i>
+                    </span>
+                    <p align="center">I learned my statistics and operation research for my management program.
+                    in Vgate Academy through Online. The teaching very good and more about is their care. 
+                    it is my Ownderful experience learning subjects from live online tutors and feel no difference from
+                    class room teaching.</p>
+                    <p class="name" align="right">Ken Bosh  <span class="position">USA</span></p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    
+<!-- FeedBack Closed Here -->
+
+
+
+
+<!-- Request A Quote -->
+
+    <section class="ftco-section ftco-consult ftco-no-pt ftco-no-pb" style="background-image: url(images/bg_5.jpg);" data-stellar-background-ratio="0.5">
+    	<div class="container">
+    		<div class="row justify-content-end">
+    			<div class="col-md-6 py-5 px-md-5 bg-primary">
+	          <div class="heading-section heading-section-white ftco-animate mb-5">
+	            <h2 class="mb-4">Request A Quote</h2>
+	            <p></p>
+	          </div>
+	          <form action="#" class="appointment-form ftco-animate">
+	    				<div class="d-md-flex">
+		    				<div class="form-group">
+		    					<input type="text" class="form-control" placeholder="First Name">
+		    				</div>
+		    				<div class="form-group ml-md-4">
+		    					<input type="text" class="form-control" placeholder="Last Name">
+		    				</div>
+	    				</div>
+	    				<div class="d-md-flex">
+	    					<div class="form-group">
+		    					<div class="form-field">
+          					<div class="select-wrap">
+                      <div class="icon"><span class="ion-ios-arrow-down"></span></div>
+                      <select name="" id="" class="form-control">
+                      	<option value="">Select Your Course</option>
+                        <option value="GMATE">GMATE</option>
+                        <option value="TANCET">TANCET</option>
+                        <option value="IES">IES</option>
+                        <option value="IIT JEE">IIT JEE</option>
+                        <option value="AIIMS">AIIMS</option>
+                        <option value="NATA">NATA</option>
+                        <option value="NDA">NDA</option>
+                        <option value="ONLINE TUTORING">ONLINE TUTORING</option>
+                        <option value="NIOS">NIOS</option>
+                      </select>
+                    </div>
+		              </div>
+		    				</div>
+	    					<div class="form-group ml-md-4">
+		    					<input type="text" class="form-control" placeholder="Phone">
+		    				</div>
+	    				</div>
+	    				<div class="d-md-flex">
+	    					<div class="form-group">
+		              <textarea name="" id="" cols="30" rows="2" class="form-control" placeholder="Message"></textarea>
+		            </div>
+		            <div class="form-group ml-md-4">
+		              <input type="submit" value="Request A Quote" class="btn btn-secondary py-3 px-4">
+		            </div>
+	    				</div>
+	    			</form>
+    			</div>
+        </div>
+    	</div>
+    </section>
+<!-- Request A Quote Closed Here -->
+
+
+
+
+<!-- Pricing Section Start Here -->
+<!-- 
+    <section class="ftco-section">
+    	<div class="container">
+    		<div class="row justify-content-center mb-5 pb-2">
+          <div class="col-md-8 text-center heading-section ftco-animate">
+            <h2 class="mb-4"><span>Our</span> Pricing</h2>
+            <p>Separated they live in. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country</p>
+          </div>
+        </div>
+    		<div class="row">
+        	<div class="col-md-6 col-lg-3 ftco-animate">
+        		<div class="pricing-entry bg-light pb-4 text-center">
+        			<div>
+	        			<h3 class="mb-3">Basic</h3>
+	        			<p><span class="price">$24.50</span> <span class="per">/ 5mos</span></p>
+	        		</div>
+	        		<div class="img" style="background-image: url(images/bg_1.jpg);"></div>
+	        		<div class="px-4">
+	        			<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+        			</div>
+        			<p class="button text-center"><a href="#" class="btn btn-primary px-4 py-3">Take A Course</a></p>
+        		</div>
+        	</div>
+        	<div class="col-md-6 col-lg-3 ftco-animate">
+        		<div class="pricing-entry bg-light pb-4 text-center">
+        			<div>
+	        			<h3 class="mb-3">Standard</h3>
+	        			<p><span class="price">$34.50</span> <span class="per">/ 5mos</span></p>
+	        		</div>
+	        		<div class="img" style="background-image: url(images/bg_2.jpg);"></div>
+        			<div class="px-4">
+	        			<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+        			</div>
+        			<p class="button text-center"><a href="#" class="btn btn-secondary px-4 py-3">Take A Course</a></p>
+        		</div>
+        	</div>
+        	<div class="col-md-6 col-lg-3 ftco-animate">
+        		<div class="pricing-entry bg-light active pb-4 text-center">
+        			<div>
+	        			<h3 class="mb-3">Premium</h3>
+	        			<p><span class="price">$54.50</span> <span class="per">/ 5mos</span></p>
+	        		</div>
+	        		<div class="img" style="background-image: url(images/bg_3.jpg);"></div>
+        			<div class="px-4">
+	        			<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+        			</div>
+        			<p class="button text-center"><a href="#" class="btn btn-tertiary px-4 py-3">Take A Course</a></p>
+        		</div>
+        	</div>
+        	<div class="col-md-6 col-lg-3 ftco-animate">
+        		<div class="pricing-entry bg-light pb-4 text-center">
+        			<div>
+	        			<h3 class="mb-3">Platinum</h3>
+	        			<p><span class="price">$89.50</span> <span class="per">/ 5mos</span></p>
+	        		</div>
+	        		<div class="img" style="background-image: url(images/bg_5.jpg);"></div>
+        			<div class="px-4">
+	        			<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
+        			</div>
+        			<p class="button text-center"><a href="#" class="btn btn-quarternary px-4 py-3">Take A Course</a></p>
+        		</div>
+        	</div>
+        </div>
+    	</div>
+    </section>
+
+-->
+<!-- Pricing END Here -->
+
+
+
+
+<!-- RECENT BLOG START HERE -->
+
+		<section class="ftco-section bg-light">
+			<div class="container">
+				<div class="row justify-content-center mb-5 pb-2">
+          <div class="col-md-8 text-center heading-section ftco-animate">
+            <h2 class="mb-4"><span>Recent</span> Blog</h2>
+            <p></p>
+          </div>
+        </div>
+				<div class="row">
+          <div class="col-md-6 col-lg-4 ftco-animate">
+            <div class="blog-entry">
+              <a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('images/RB1.jpg');">
+								<div class="meta-date text-center p-2">
+                  <span class="day">23</span>
+                  <span class="mos">April</span>
+                  <span class="yr">2019</span>
+                </div>
+              </a>
+              <div class="text bg-white p-4">
+                <h3 class="heading"><a href="#">KV OCF Chennai</a></h3>
+                <p align="justify">Career Guidence for XI and XII  CBSC Students</p>
+                <div class="d-flex align-items-center mt-4">
+	                <p class="mb-0"><a href="index.html" class="btn btn-secondary">Read More <span class="ion-ios-arrow-round-forward"></span></a></p>
+	                <p class="ml-auto mb-0">
+	                	
+	                </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-4 ftco-animate">
+            <div class="blog-entry">
+              <a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('images/RB2.jpg');">
+								<div class="meta-date text-center p-2">
+                  <span class="day">26</span>
+                  <span class="mos">April</span>
+                  <span class="yr">2019</span>
+                </div>
+              </a>
+              <div class="text bg-white p-4">
+                <h3 class="heading"><a href="#">KV HVF Chennai</a></h3>
+                <p align="justify">Why IIT JEE and NEET? Important of Selecting in Science , Engineering, Medical and Management Institutions.</p>
+                <div class="d-flex align-items-center mt-4">
+	                <p class="mb-0"><a href="#" class="btn btn-secondary">Read More <span class="ion-ios-arrow-round-forward"></span></a></p>
+	                <p class="ml-auto mb-0">
+	                	
+	                	
+	                </p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-4 ftco-animate">
+            <div class="blog-entry">
+              <a href="blog-single.html" class="block-20 d-flex align-items-end" style="background-image: url('images/image_3.jpg');">
+								<div class="meta-date text-center p-2">
+                  <span class="day">3</span>
+                  <span class="mos">June</span>
+                  <span class="yr">2019</span>
+                </div>
+              </a>
+              <div class="text bg-white p-4">
+                <h3 class="heading"><a href="#">UpComing Events</a></h3>
+                <p align="justify">Online Tutoring for Mathematics, Physics, Chemistry, Biology, Engineering Maths and other sujects for all degrees</p>
+                <div class="d-flex align-items-center mt-4">
+	                <p class="mb-0"><a href="index.html" class="btn btn-secondary">Read More <span class="ion-ios-arrow-round-forward"></span></a></p>
+	                <p class="ml-auto mb-0">
+	                	
+	                	
+	                </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+			</div>
+		</section>
+<!-- Request a Quote Closed Here -->
+
+
+	
+	<!-- Gallery Started Here -->
+	
+		<section class="ftco-gallery">
+    	<div class="container-wrap">
+    		<div class="row no-gutters">
+					<div class="col-md-3 ftco-animate">
+						<a href="images/APJ.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/APJ.jpg);">
+							<div class="icon mb-4 d-flex align-items-center justify-content-center">
+    						<span class="icon-instagram"></span>
+    					</div>
+						</a>
+					</div>
+					<div class="col-md-3 ftco-animate">
+						<a href="images/EI.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/EI.jpg);">
+							<div class="icon mb-4 d-flex align-items-center justify-content-center">
+    						<span class="icon-instagram"></span>
+    					</div>
+						</a>
+					</div>
+					<div class="col-md-3 ftco-animate">
+						<a href="images/THI.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/THI.jpg);">
+							<div class="icon mb-4 d-flex align-items-center justify-content-center">
+    						<span class="icon-instagram"></span>
+    					</div>
+						</a>
+					</div>
+					<div class="col-md-3 ftco-animate">
+						<a href="images/SVK.jpg" class="gallery image-popup img d-flex align-items-center" style="background-image: url(images/SVK.jpg);">
+							<div class="icon mb-4 d-flex align-items-center justify-content-center">
+    						<span class="icon-instagram"></span>
+    					</div>
+						</a>
+					</div>
+        </div>
+    	</div>
+    </section>
+<!-- Gallery Closed Here -->
+		
+		
+		
+		<!-- Footer Started Here -->
+		
+    <footer class="ftco-footer ftco-bg-dark ftco-section">
+      <div class="container">
+        <div class="row mb-5">
+          <div class="col-md-6 col-lg-3">
+            <div class="ftco-footer-widget mb-5">
+            	<h2 class="ftco-heading-2">Have a Questions?</h2>
+            	<div class="block-23 mb-3">
+	              <ul>
+	                <li><span class="icon icon-map-marker"></span><span class="text">#10 IYAPPAN TEMPLE STREET,  BV PURAM, AVADI,CHENNAI, INDIA 600 054</span></li>
+	                <li><a href="#"><span class="icon icon-phone"></span><span class="text">+91-8220147439/ 6383887536/ 8939797512</span></a></li>
+	                <li><a href="#"><span class="icon icon-envelope"></span><span class="text">vgateacademyonline@gmail.com</span></a></li>
+	              </ul>
+	            </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-3">
+            <div class="ftco-footer-widget mb-5">
+              <h2 class="ftco-heading-2">Recent Blog</h2>
+              <div class="block-21 mb-4 d-flex">
+                <a class="blog-img mr-4" style="background-image: url(images/RB1.jpg);"></a>
+                <div class="text">
+                  <h3 class="heading" align="justify"><a href="index.html">Career Guidence for XI and XII  CBSC Students at KV OCF Chennai.</a></h3>
+                  
+                  <!-- 
+                  <div class="meta">
+                    <div><a href="#"><span class="icon-calendar"></span> </a></div>
+                    <div><a href="#"><span class="icon-person"></span> </a></div>
+                    <div><a href="#"><span class="icon-chat"></span> </a></div>
+                  </div>
+                  -->
+                  
+                </div>
+              </div>
+              <div class="block-21 mb-5 d-flex">
+                <a class="blog-img mr-4" style="background-image: url(images/RB2.jpg);"></a>
+                <div class="text">
+                  <h3 class="heading" align="justify"><a href="#">Why IIT JEE and NEET? Important of Selecting in Science , Engineering, Medical and Management Institutions at KV HVF Chennai.</a></h3>
+                  
+                  <!-- 
+                  <div class="meta">
+                    <div><a href="#"><span class="icon-calendar"></span> </a></div>
+                    <div><a href="#"><span class="icon-person"></span> </a></div>
+                    <div><a href="#"><span class="icon-chat"></span> </a></div>
+                  </div>
+                  -->
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-3">
+            <div class="ftco-footer-widget mb-5 ml-md-4">
+              <h2 class="ftco-heading-2">Useful Links</h2>
+              <ul class="list-unstyled">
+                <li><a href="index.html"><span class="ion-ios-arrow-round-forward mr-2"></span>Home</a></li>
+                <li><a href="about.html"><span class="ion-ios-arrow-round-forward mr-2"></span>About</a></li>
+                <li><a href="services.html"><span class="ion-ios-arrow-round-forward mr-2"></span>Services</a></li>
+                <li><a href="#"><span class="ion-ios-arrow-round-forward mr-2"></span>Departments</a></li>
+                <li><a href="faq.html"><span class="ion-ios-arrow-round-forward mr-2"></span>FAQs</a></li>
+                
+                
+                
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-3">
+            <div class="ftco-footer-widget mb-5">
+            	<h2 class="ftco-heading-2">Subscribe Us!</h2>
+              <form action="#" class="subscribe-form">
+                <div class="form-group">
+                  <input type="text" class="form-control mb-2 text-center" placeholder="Enter email address">
+                  <input type="submit" value="Subscribe" class="form-control submit px-3">
+                </div>
+              </form>
+            </div>
+            <div class="ftco-footer-widget mb-5">
+            	<h2 class="ftco-heading-2 mb-0">Connect With Us</h2>
+            	<ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-3">
+            	
+            	<li class="ftco-animate"><a href="https://www.google.com/"><span class="icon-google"></span></a></li>
+                <li class="ftco-animate"><a href="https://twitter.com/"><span class="icon-twitter"></span></a></li>
+                <li class="ftco-animate"><a href="https://www.facebook.com/"><span class="icon-facebook"></span></a></li>
+                <li class="ftco-animate"><a href="https://www.youtube.com/"><span class="icon-youtube"></span></a></li>
+               <li class="ftco-animate"><a href="https://www.linkedin.com/login?trk=guest_homepage-basic_nav-header-signin"><span class="icon-linkedin"></span></a></li>
+               <li class="ftco-animate"><a href="https://accounts.google.com/signin/v2/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin"><span class="icon-google-plus"></span></a></li> 
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-md-12 text-center">
+
+            <p>
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved anudotsoft| Designed <i class="" aria-hidden="true"></i> by <a href="" target="_blank">|Palanikumar.G|9791674033|8610806616|</a>
+  </p>
+          </div>
+        </div>
+      </div>
+    </footer>
+    
+  
+
+  <!-- loader -->
+  <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee"/><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00"/></svg></div>
+
+
+  <script src="js/jquery.min.js"></script>
+  <script src="js/jquery-migrate-3.0.1.min.js"></script>
+  <script src="js/popper.min.js"></script>
+  <script src="js/bootstrap.min.js"></script>
+  <script src="js/jquery.easing.1.3.js"></script>
+  <script src="js/jquery.waypoints.min.js"></script>
+  <script src="js/jquery.stellar.min.js"></script>
+  <script src="js/owl.carousel.min.js"></script>
+  <script src="js/jquery.magnific-popup.min.js"></script>
+  <script src="js/aos.js"></script>
+  <script src="js/jquery.animateNumber.min.js"></script>
+  <script src="js/scrollax.min.js"></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false"></script>
+  <script src="js/google-map.js"></script>
+  <script src="js/main.js"></script>
+    
+  </body>
+</html>

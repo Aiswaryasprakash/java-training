@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+img.top{
+vertical-align:text-top;
+}
+img.bottom{
+vertical-align:text-bottom;
+}
+p{
+ white-space:pre-line;
+}
+img.normal{
+ width:auto;
+}
+img.big{
+width:150px;
+}
+p.ex{
+height:150px;
+width:150px;
+}
+p.text{
+width:15em;
+background-color:red;
+
+padding:10px;
+word-wrap:break-word;
+}
+
+.box{
+background-color:#eee;
+outline:6px solid blue;
+border:1px solid lightgreen;
+padding:5px 10px;
+outline-offset:6px;
+float:left;
+}
+body{
+counter-reset:section;
+}
+h1{
+counter-reset:subsection;
+}
+h1::before{
+counter-increment:section;
+content:"section" counter(section)":";
+}
+h2::before{
+counter-increment:subsection;
+content:counter(section) "." counter(subsection)":";
+}
+</style>
+</head>
+<body>
+<p>welcome to cognizant...success today means getting your best ideas to market faster and to operate differently to drive new value..connected enterprises depend on human insights...
+the key is connectivity..
+</p>
+<img class="normal" src="puli.jpg" width="95" height="84"><br>
+<img class="big" src="puli.jpg" width="95" height="84"><br>
+<p class="ex"> the h and w of this para is 150px</p>
+<p class="text">in this paragraph,there is avery long word:
+iam soooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooolonggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggg
+the long word will break and wrap to next line</p>
+<div class="box" style="outline-style:double;"> double</div>
+<div class="box" style="outline-style:dotted;"> dotted</div>
+<div class="box" style="outline-style:ridge;"> ridge</div>
+<div class="box" style="outline-style:inset;"> inset</div><br>
+<h1>example of css counters:</h1>
+
+<h2> html 5</h2>
+<h2>css3</h2>
+<h2>javascript</h2>
+<h1>jsdkaj</h1>
+<p><strong>note:</strong>ie8 supports these properties onlyif a !doctype is specified</p>
+</body>
+</html>
